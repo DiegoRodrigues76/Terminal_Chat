@@ -1,3 +1,3 @@
 # Terminal Chat
 
-Este é um aplicativo feito inteiramente em python de bate-papo com comunicação de chat via PowerShell, Prompt de Comando ou Terminal a partir de um server host.
+Este é um aplicativo de bate-papo feito em Python com chat entre dois ou mais clientes via PowerShell, Prompt de Comando ou Terminal conectados a partir de um Server Host. 
